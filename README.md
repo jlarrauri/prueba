@@ -22,3 +22,8 @@ markdownpdf().from("/path/to/document.md").to("/path/to/document.pdf", function 
 
 
 Esto ya es un texto
+
+## Listas simples
+  - uno
+  - dos
+  - tres
