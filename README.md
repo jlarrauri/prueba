@@ -25,5 +25,8 @@ Esto ya es un texto
 
 ## Listas simples
   - uno
+     -  rojo
+     - verde
+     - azul
   - dos
   - tres
